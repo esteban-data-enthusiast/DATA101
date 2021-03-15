@@ -1,5 +1,6 @@
 ---
-title: "Untitled"
+title: "Testing RStudio Integration with GitHub"
+author: "Esteban Aramayo"
 output: html_document
 ---
 
